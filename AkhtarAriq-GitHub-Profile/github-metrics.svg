@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="130" viewBox="0 0 480 130" role="img" aria-labelledby="title description">
+  <title id="title">GitHub activity — AkhtarAriq</title>
+  <desc id="description">Setup placeholder. Real statistics will replace this card after the Metrics workflow runs successfully.</desc>
+  <rect x="1" y="1" width="478" height="128" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="24" y="27" width="4" height="25" rx="2" fill="#a78bfa"/>
+  <text x="40" y="47" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="bold">GitHub activity</text>
+  <text x="24" y="79" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="14">Metrics will appear after the first workflow run.</text>
+  <text x="24" y="104" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">AkhtarAriq · Languages · Contributions</text>
+</svg>
