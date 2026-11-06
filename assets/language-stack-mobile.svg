@@ -20,15 +20,32 @@
 <text x="32" y="76" fill="#F5F6FA" font-size="31" font-weight="750" font-family="Arial, sans-serif">Technical toolkit</text>
 <text x="32" y="111" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Language mix · public source code</text>
 <path d="M 32 137 H 488" stroke="#333A52"/>
-<text x="32" y="202" fill="#F5F6FA" font-size="25" font-weight="700" font-family="Arial, sans-serif">Awaiting first live sync</text>
-<text x="32" y="242" fill="#B8BBD1" font-size="16" font-family="Arial, sans-serif">Run the profile workflow to load your language mix.</text>
-<rect x="32" y="295" width="456" height="13" rx="6.5" fill="#272B3B"/>
-<rect x="32" y="295" width="85" height="13" rx="6.5" fill="#5B8DEF" opacity=".24"/>
-<rect x="32" y="353" width="456" height="13" rx="6.5" fill="#272B3B"/>
-<rect x="32" y="353" width="115" height="13" rx="6.5" fill="#8B5CF6" opacity=".24"/>
-<rect x="32" y="411" width="456" height="13" rx="6.5" fill="#272B3B"/>
-<rect x="32" y="411" width="145" height="13" rx="6.5" fill="#E879B9" opacity=".24"/>
+<circle cx="39" cy="187" r="6" fill="#5B8DEF"/>
+<text x="55" y="193" fill="#F5F6FA" font-size="20" font-weight="650" font-family="Arial, sans-serif">Jupyter Notebook</text>
+<text x="488" y="193" fill="#5B8DEF" text-anchor="end" font-size="20" font-weight="700" font-family="Arial, sans-serif">86.4%</text>
+<rect x="32" y="215" width="456" height="11" rx="5.5" fill="#282D3B"/>
+<rect x="32" y="215" width="394.07" height="11" rx="5.5" fill="#5B8DEF"/>
+<circle cx="39" cy="273" r="6" fill="#8B5CF6"/>
+<text x="55" y="279" fill="#F5F6FA" font-size="20" font-weight="650" font-family="Arial, sans-serif">TypeScript</text>
+<text x="488" y="279" fill="#8B5CF6" text-anchor="end" font-size="20" font-weight="700" font-family="Arial, sans-serif">4.4%</text>
+<rect x="32" y="301" width="456" height="11" rx="5.5" fill="#282D3B"/>
+<rect x="32" y="301" width="20.10" height="11" rx="5.5" fill="#8B5CF6"/>
+<circle cx="39" cy="359" r="6" fill="#E879B9"/>
+<text x="55" y="365" fill="#F5F6FA" font-size="20" font-weight="650" font-family="Arial, sans-serif">JavaScript</text>
+<text x="488" y="365" fill="#E879B9" text-anchor="end" font-size="20" font-weight="700" font-family="Arial, sans-serif">3.9%</text>
+<rect x="32" y="387" width="456" height="11" rx="5.5" fill="#282D3B"/>
+<rect x="32" y="387" width="17.61" height="11" rx="5.5" fill="#E879B9"/>
+<circle cx="39" cy="445" r="6" fill="#8AC7FA"/>
+<text x="55" y="451" fill="#F5F6FA" font-size="20" font-weight="650" font-family="Arial, sans-serif">CSS</text>
+<text x="488" y="451" fill="#8AC7FA" text-anchor="end" font-size="20" font-weight="700" font-family="Arial, sans-serif">1.9%</text>
+<rect x="32" y="473" width="456" height="11" rx="5.5" fill="#282D3B"/>
+<rect x="32" y="473" width="8.81" height="11" rx="5.5" fill="#8AC7FA"/>
+<circle cx="39" cy="531" r="6" fill="#B8A3FF"/>
+<text x="55" y="537" fill="#F5F6FA" font-size="20" font-weight="650" font-family="Arial, sans-serif">PHP</text>
+<text x="488" y="537" fill="#B8A3FF" text-anchor="end" font-size="20" font-weight="700" font-family="Arial, sans-serif">1.5%</text>
+<rect x="32" y="559" width="456" height="11" rx="5.5" fill="#282D3B"/>
+<rect x="32" y="559" width="6.93" height="11" rx="5.5" fill="#B8A3FF"/>
 <path d="M 32 609 H 488" stroke="#333A52"/>
-<text x="32" y="637" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">12 public repositories found</text>
-<text x="488" y="637" fill="#858AA4" text-anchor="end" font-size="13" font-family="Arial, sans-serif">06 Nov 2026 · 13:54 WIB</text>
+<text x="32" y="637" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">12 public repositories scanned</text>
+<text x="488" y="637" fill="#858AA4" text-anchor="end" font-size="13" font-family="Arial, sans-serif">06 Nov 2026 · 15:05 WIB</text>
 </svg>

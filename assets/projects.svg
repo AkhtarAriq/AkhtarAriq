@@ -37,21 +37,21 @@
 <path d="M 557 214 H 1021" stroke="#343A54"/>
 <circle cx="581" cy="192" r="5" fill="#8B5CF6"/>
 <text x="597" y="198" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
-<text x="581" y="253" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">gojek-sentiment-analysis</text>
-<text x="581" y="288" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Indonesian sentiment analysis of Gojek</text>
-<text x="581" y="311" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Google Play reviews using TF-IDF a…</text>
+<text x="581" y="253" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">bitcoin-multihorizon-lstm-for…</text>
+<text x="581" y="288" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">24-hour Bitcoin forecasting with</text>
+<text x="581" y="311" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">multivariate LSTM and Seq2Seq model…</text>
 <rect x="581" y="330" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
 <text x="598" y="350" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
-<text x="998" y="350" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">29 Oct 2026</text>
+<text x="998" y="350" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">28 Oct 2026</text>
 </g>
 <g class="project-card">
 <rect x="58" y="406" width="466" height="215" rx="15" fill="url(#subtle)" stroke="#45415F" stroke-width="1.5"/>
 <path d="M 59 454 H 523" stroke="#343A54"/>
 <circle cx="83" cy="432" r="5" fill="#8B5CF6"/>
 <text x="99" y="438" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
-<text x="83" y="493" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">bitcoin-multihorizon-lstm-for…</text>
-<text x="83" y="528" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">24-hour Bitcoin forecasting with</text>
-<text x="83" y="551" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">multivariate LSTM and Seq2Seq model…</text>
+<text x="83" y="493" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">Sales-forecasting-whit-Prophe…</text>
+<text x="83" y="528" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Sales forecasting with Prophet and</text>
+<text x="83" y="551" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">external regressors. Source data a…</text>
 <rect x="83" y="570" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
 <text x="100" y="590" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
 <text x="500" y="590" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">28 Oct 2026</text>
@@ -61,13 +61,13 @@
 <path d="M 557 454 H 1021" stroke="#343A54"/>
 <circle cx="581" cy="432" r="5" fill="#8B5CF6"/>
 <text x="597" y="438" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
-<text x="581" y="493" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">Sales-forecasting-whit-Prophe…</text>
-<text x="581" y="528" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Sales forecasting with Prophet and</text>
-<text x="581" y="551" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">external regressors. Source data a…</text>
+<text x="581" y="493" fill="#F5F6FA" font-size="24" font-weight="750" font-family="Arial, sans-serif">gojek-sentiment-analysis</text>
+<text x="581" y="528" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Indonesian sentiment analysis of Gojek</text>
+<text x="581" y="551" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Google Play reviews using TF-IDF a…</text>
 <rect x="581" y="570" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
 <text x="598" y="590" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
-<text x="998" y="590" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">28 Oct 2026</text>
+<text x="998" y="590" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">29 Oct 2026</text>
 </g>
 <text x="58" y="657" fill="#858AA4" font-size="16" font-family="Arial, sans-serif">4 public projects</text>
-<text x="1022" y="657" text-anchor="end" fill="#858AA4" font-size="16" font-family="Arial, sans-serif">06 Nov 2026 · 13:54 WIB</text>
+<text x="1022" y="657" text-anchor="end" fill="#858AA4" font-size="16" font-family="Arial, sans-serif">06 Nov 2026 · 15:05 WIB</text>
 </svg>
