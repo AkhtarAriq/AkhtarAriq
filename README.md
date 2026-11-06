@@ -1,37 +1,59 @@
+<div align="center">
+
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
-  <img src="./assets/hero.svg" width="100%" alt="Akhtar Ariq — Data into insight. Ideas into tools. Data & BI, web development, and exploring AI.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png" />
+  <img src="assets/hero-nebula.gif" width="100%" alt="Muhammad Akhtar Ariq — Data & BI, software development, exploring AI. Animated black and violet terminal header." />
 </picture>
 
-<p align="center">
-  <a href="#skills">Skills</a> &nbsp; / &nbsp;
-  <a href="#github-activity">Activity</a> &nbsp; / &nbsp;
-  <a href="https://github.com/AkhtarAriq?tab=repositories">Repositories</a>
+<p>
+  <a href="https://akhtarariq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-090A12?style=for-the-badge&logo=vercel&logoColor=F5F6FA&labelColor=8B5CF6" alt="Explore my portfolio" /></a>
+  <a href="https://github.com/AkhtarAriq?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Browse%20repositories-090A12?style=for-the-badge&logo=github&logoColor=F5F6FA&labelColor=5B8DEF" alt="Browse my GitHub repositories" /></a>
 </p>
 
-I'm **Muhammad Akhtar Ariq**, an Information Systems student at UPN “Veteran” Jawa Timur. I work across **data, business intelligence, and web development**.
+</div>
 
-## Skills
+### 01 / About me
 
-| Area | Tools I work with |
-| :--- | :--- |
-| **Languages** | TypeScript · JavaScript · PHP · SQL |
-| **Web development** | React · Next.js · Tailwind CSS |
-| **Databases** | PostgreSQL · MySQL |
-| **Data & BI** | Pentaho PDI · Tableau · ETL · Dimensional modelling |
+I'm **Muhammad Akhtar Ariq**, an Information Systems graduate who enjoys connecting **data, business intelligence, and software engineering** to build useful digital experiences. I work across analytics pipelines and web applications, and I'm exploring the foundations of AI and how to apply it thoughtfully to real problems.
 
-**Currently exploring:** machine learning, AI agents, and workflow orchestration.
+> Curious about the *why* behind a system—and the details that make it work well.
 
-## GitHub activity
+### 02 / Technical toolkit
 
-<p align="center">
-  <img src="./github-metrics.svg" width="600" alt="Akhtar Ariq's live GitHub overview, most-used repository languages, and full-year contribution calendar, updated daily by Metrics.">
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/language-stack-mobile.svg" />
+  <img src="assets/language-stack.svg" width="100%" alt="Live language breakdown by source-code bytes across my eligible public repositories, refreshed automatically." />
+</picture>
 
-<p align="center">
-  <sub>Updated daily with <a href="https://github.com/lowlighter/metrics">Metrics</a> · Asia/Jakarta</sub>
-</p>
+<sub>Repository-weighted language mix, not a proficiency score. Calculated from eligible public, original repositories and updated daily.</sub>
+
+### 03 / Selected projects
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/projects-mobile.svg" />
+  <img src="assets/projects.svg" width="100%" alt="Four selected public GitHub projects with descriptions and primary languages, refreshed automatically." />
+</picture>
+
+<p align="center"><a href="https://github.com/AkhtarAriq?tab=repositories">Explore all repositories ↗</a> · <a href="https://akhtarariq.vercel.app/">See project case studies ↗</a></p>
+
+### 04 / Contribution trail
+
+<div align="center">
+
+<img src="assets/contribution-snake.gif" width="100%" alt="Animated snake traversing Muhammad Akhtar Ariq's GitHub contributions. Generated automatically from his own contribution graph." />
+
+</div>
+
+<sub>Generated from my GitHub contribution graph. The animation refreshes automatically with the other profile visuals.</sub>
 
 ---
 
-**Have an idea worth building?** [Start a public conversation →](https://github.com/AkhtarAriq/AkhtarAriq/issues/new?title=Let%27s%20connect)
+<div align="center">
+
+**Let's build something useful.**
+
+If you're interested in data, software, or practical AI, take a look at my [portfolio](https://akhtarariq.vercel.app/) and [projects](https://github.com/AkhtarAriq?tab=repositories).
+
+<sub>Made with curiosity · Updated by GitHub Actions</sub>
+
+</div>
