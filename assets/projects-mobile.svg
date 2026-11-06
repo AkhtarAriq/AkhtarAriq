@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="1240" viewBox="0 0 520 1240" role="img" aria-labelledby="asset-title asset-desc">
+  <title id="asset-title">Live selected repositories</title>
+  <desc id="asset-desc">Live GitHub profile data from public repositories, refreshed daily.</desc>
+
+  <defs>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5B8DEF"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#E879B9"/>
+    </linearGradient>
+    <radialGradient id="nebula"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".23"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="subtle" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111522"/><stop offset="100%" stop-color="#0C0F18"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="518" height="1238" rx="22" fill="#090A12" stroke="#383651" stroke-width="2"/>
+  <ellipse cx="440" cy="28" rx="280" ry="190" fill="url(#nebula)"/>
+  <path d="M 24 2 H 496" stroke="url(#spectrum)" stroke-width="3" opacity=".9"/>
+
+<text x="28" y="74" fill="#F5F6FA" font-size="34" font-weight="750" font-family="Arial, sans-serif">Selected projects</text>
+<text x="28" y="106" fill="#B8BBD1" font-size="17" font-family="Arial, sans-serif">Pinned first · refreshed from GitHub</text>
+<path d="M 28 133 H 492" stroke="#333A52"/>
+<g class="project-card">
+<rect x="28" y="153" width="464" height="234" rx="15" fill="url(#subtle)" stroke="#45415F" stroke-width="1.5"/>
+<path d="M 29 201 H 491" stroke="#343A54"/>
+<circle cx="53" cy="179" r="5" fill="#8B5CF6"/>
+<text x="69" y="185" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
+<text x="53" y="240" fill="#F5F6FA" font-size="23" font-weight="750" font-family="Arial, sans-serif">bank-transaction-clusteri…</text>
+<text x="53" y="275" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">Bank transaction segmentation with K-Means</text>
+<text x="53" y="298" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">and PCA, followed by Decision Tree a…</text>
+<rect x="53" y="336" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
+<text x="70" y="356" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
+<text x="468" y="356" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">29 Oct 2026</text>
+</g>
+<g class="project-card">
+<rect x="28" y="411" width="464" height="234" rx="15" fill="url(#subtle)" stroke="#45415F" stroke-width="1.5"/>
+<path d="M 29 459 H 491" stroke="#343A54"/>
+<circle cx="53" cy="437" r="5" fill="#8B5CF6"/>
+<text x="69" y="443" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
+<text x="53" y="498" fill="#F5F6FA" font-size="23" font-weight="750" font-family="Arial, sans-serif">gojek-sentiment-analysis</text>
+<text x="53" y="533" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">Indonesian sentiment analysis of Gojek</text>
+<text x="53" y="556" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">Google Play reviews using TF-IDF a…</text>
+<rect x="53" y="594" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
+<text x="70" y="614" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
+<text x="468" y="614" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">29 Oct 2026</text>
+</g>
+<g class="project-card">
+<rect x="28" y="669" width="464" height="234" rx="15" fill="url(#subtle)" stroke="#45415F" stroke-width="1.5"/>
+<path d="M 29 717 H 491" stroke="#343A54"/>
+<circle cx="53" cy="695" r="5" fill="#8B5CF6"/>
+<text x="69" y="701" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
+<text x="53" y="756" fill="#F5F6FA" font-size="23" font-weight="750" font-family="Arial, sans-serif">bitcoin-multihorizon-lstm…</text>
+<text x="53" y="791" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">24-hour Bitcoin forecasting with</text>
+<text x="53" y="814" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">multivariate LSTM and Seq2Seq model…</text>
+<rect x="53" y="852" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
+<text x="70" y="872" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
+<text x="468" y="872" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">28 Oct 2026</text>
+</g>
+<g class="project-card">
+<rect x="28" y="927" width="464" height="234" rx="15" fill="url(#subtle)" stroke="#45415F" stroke-width="1.5"/>
+<path d="M 29 975 H 491" stroke="#343A54"/>
+<circle cx="53" cy="953" r="5" fill="#8B5CF6"/>
+<text x="69" y="959" fill="#B8BBD1" font-size="15" font-family="monospace">REPOSITORY / PUBLIC</text>
+<text x="53" y="1014" fill="#F5F6FA" font-size="23" font-weight="750" font-family="Arial, sans-serif">Sales-forecasting-whit-Pr…</text>
+<text x="53" y="1049" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">Sales forecasting with Prophet and external</text>
+<text x="53" y="1072" fill="#B8BBD1" font-size="18" font-family="Arial, sans-serif">regressors. Source data and generat…</text>
+<rect x="53" y="1110" width="208" height="28" rx="14" fill="#22243B" stroke="#4B4974"/>
+<text x="70" y="1130" fill="#C8BCFF" font-size="16" font-family="Arial, sans-serif">Jupyter Notebook</text>
+<text x="468" y="1130" text-anchor="end" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">28 Oct 2026</text>
+</g>
+<text x="28" y="1211" fill="#858AA4" font-size="14" font-family="Arial, sans-serif">4 public projects</text>
+<text x="492" y="1211" text-anchor="end" fill="#858AA4" font-size="13" font-family="Arial, sans-serif">06 Nov 2026 · 13:54 WIB</text>
+</svg>
